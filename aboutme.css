@@ -1,0 +1,148 @@
+
+html{
+  height:100%;
+}
+
+body {
+  background: rgba(0,0,0,0.7);
+  color: #fff;
+  height: 100%;
+}
+
+header {
+  background: url("https://unsplash.imgix.net/reserve/z7R1rjT6RhmZdqWbM5hg_R0001139.jpg?q=75&fm=jpg&s=26fc77c65835d1d8e2bcffb8b91a1b93");
+  text-align: center;
+  max-width: auto;
+  color: #fff;
+  height: 30%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: 300px;
+}
+
+.header-img {
+  border-color: rgba(1,1,1,0.5);
+  border-radius: 30px;  
+  transform: scaleY(0.7) scaleX(0.7);
+}
+
+
+.masthead {
+  padding: 6em 0;
+}
+
+.masthead-intro {
+  position: relative;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 32px;
+  margin: 0;
+}
+
+.masthead-heading {
+  font-size: 40px;
+  font-family: 'Shadows Into Light', cursive;
+  margin: -0.2em;
+}
+
+h1{
+  background: rgba(0,0,0,0.7);
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px;
+  margin: 0 0 -15px 0;
+}
+
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: gray;
+  margin: 0px 0 0px 0;
+  width: 90%;
+  margin: auto auto;
+}
+
+h4{
+  background: rgba(0,0,0,0.7);
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+  margin: 0 auto -0.5em;
+  text-align: center;
+}
+
+.mastbody-section1 {
+  background: url("http://homeinteriorsdesigns.info/wp-content/uploads/2014/07/light-gray-wood-background.jpg");
+  background-position: cover;
+  height: auto;
+}
+
+.mastbody-section2 {
+  background: url("https://unsplash.imgix.net/reserve/O7A9fAvYSXC7NTdz8gLQ_IMGP1039.jpg?fit=crop&fm=jpg");
+  background-position: center;
+  height: auto;
+  position: relative;
+}
+
+.mastbody-section3 {
+  background: url("https://unsplash.imgix.net/photo-1417436026361-a033044d901f?fit=crop&fm=jpg");
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.body-text {
+font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  margin: 0 0 0 0;
+  width: 90%;
+  margin: auto auto;
+  padding: 0.3em;
+}
+
+.body-answer {
+font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  margin: 0 0 0 0;
+  width: 90%;
+  margin: auto auto;
+}
+
+footer {
+  background: url("https://ununsplash.imgix.net/photo-1417021423914-070979c8eb34?fit=crop&fm=jpg&h=500&q=75&w=725");
+  background-position: center;
+  opacity:0.9;
+  position: relative;
+}
+
+ul {
+  padding: 0;
+  background: rgba(0,0,0,0.7);
+  list-style: none outside none;
+  margin: 0.95em auto;
+  text-align:center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+a:link{
+  color: white;
+}
+a:visited {
+    color: #D3D3D3;
+}
+a:hover {
+    color: #B0E0E6;
+}
+a:active {
+    color: #0000FF;
+}
+
+.section-div {
+  background: rgba(0,0,0,0.7);
+  border-style: solid;
+  border-color: rgba(255,255,255,0.7);
+  border-radius: 20px;
+  padding: 0.3em;
+  width: 90%;
+  margin: auto;
+}
